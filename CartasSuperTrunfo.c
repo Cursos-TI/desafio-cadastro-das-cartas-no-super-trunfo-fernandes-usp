@@ -72,7 +72,7 @@ int main() {
     scanf("%d", &pontos_turisticos2);
 
     // Exibindo os dados da carta 1
-    printf("Exibindo os dados da carta 1")
+    printf("Exibindo os dados da carta 1\n");
     printf("\nCarta 1:\n");
     printf("Estado: %c\n", estado1);
     printf("Codigo: %s\n", codigo1);
@@ -83,7 +83,7 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontos_turisticos1);
 
     // Exibindo os dados da carta 2
-    printf("Exibindo os dados da carta 2")
+    printf("Exibindo os dados da carta 2\n");
     printf("\nCarta 2:\n");
     printf("Estado: %c\n", estado2);
     printf("Codigo: %s\n", codigo2);
